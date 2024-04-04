@@ -1,6 +1,8 @@
 # Meriskill_Skill_Sales_Analysis_Internship
 Meriskill Internship: Sales Analysis; A deep dive into sales data, aimed at extracting valuable  insights to enhance strategic decision-making.
+
 (*The picture below is gotten from Meriskill Website*). 
+
 
 
 ![Meriskill-Sales-Analysis](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/2e1b0380-0334-43c6-b413-0d480ec18e8e)
