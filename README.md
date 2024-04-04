@@ -1,7 +1,7 @@
 # Meriskill_Skill_Sales_Analysis_Internship
 Meriskill Internship: Sales Analysis; A deep dive into sales data, aimed at extracting valuable  insights to enhance strategic decision-making.(*The picture below is gotten from Meriskill Website*). 
 
-![Meriskill-Sales-Analysis](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/c9bde950-a927-495a-a188-e780a6298fa3)
+![Meriskill-Sales-Analysis](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/2e1b0380-0334-43c6-b413-0d480ec18e8e)
 
 ***Disclaimer:*** This is not a real company as we know this is a dataset compiled by Meriskill for Internship purposes. 
 
@@ -36,7 +36,7 @@ The goal of this analysis is to:
    ---
   ## Data Source:
   
-The dataset for the work is gotten from Meriskill. It consist of 185,951 records and 11 fields of data. I studied the dataset well to gain proper insight into the dataset. You can find a link to download the dataset [here:](https://drive.google.com/drive/folders/1IlsIC66p5HGBtNkntD872Gkx1j_3Nwdd?usp=drive_link)
+The dataset for the work is gotten from Meriskill. It consist of 185,951 records and 11 fields of data. I studied the dataset well to gain proper insight into the dataset. You can find a link to download the dataset ![here:](https://drive.google.com/drive/folders/1IlsIC66p5HGBtNkntD872Gkx1j_3Nwdd?usp=drive_link)
 
    ---
 
@@ -50,7 +50,8 @@ and then proceeded to transform the data.
 The column headers are identified in the first row and kept them as 
 headers by following the steps below.
 
-![Meriskill-2](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/afe5b7e6-fc24-43e2-b5a7-e00743b2d864)
+![Meriskill-2](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/9ed27d2d-a352-4db7-aca3-338ad908403e)
+
 
 
 ## STEP 3:
@@ -58,24 +59,28 @@ headers by following the steps below.
 'Detect Data Type.' This action automatically identifies the data type 
 of each column and convert them as needed.
 
-![Meriskill-3](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/a19ffa33-3726-4163-a0cb-392ae452763b)
+![Meriskill-3](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/3cf92fbf-e148-4a84-9237-a6137ce4db92)
+
 
 
 ## STEP 4:
 • I split the datetime into date and time stamp
 
-![Meriskill-4](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/ecc22a6a-b560-42ee-9709-ef49a13802b2)
+![Meriskill-4](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/13bd31a8-93eb-4f70-ac86-383491e2bde9)
+
 
 • The aforementioned process starts with selecting the desired column. 
 Following the selection, the option to split the column becomes visible.
 
-![Meriskill-4a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/4df5a285-1a96-4545-9d77-530b9c704acc)
+![Meriskill-4a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/5a13d9b3-ce69-46d9-93e7-4b263376d187)
+
 
 • I chose the 'Split Column' option and select the space as the delimiter. 
 • Upon completing the data transformation, I clicked on 'Close & Apply' 
 located at the top left of the menu bar.
 
-![Meriskill-4b](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/2215af3c-32f5-4156-9638-ceca5f9c7023)
+![Meriskill-4b](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/47fac072-4abe-4a6f-9e9e-514ef92d44f7)
+
 
 
 
@@ -92,8 +97,8 @@ Sales trend over time using the line chart
 
 • I clicked on the Month name and Sales column and dragged it to the desired 
 position
+![Visual-1](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/febd7af4-d81e-4ae8-93e8-a07568810fe2)
 
-![Visual-1](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/4243d74b-ae45-4cb3-828b-b8daeb6a567c)
 
 • To create a Chronological order for the months, I followed these steps:
 1. I selected the column containing the months.
@@ -101,29 +106,34 @@ position
 3. I selected "Sort by Month Number" to sort the months in 
 chronological order
 
-![Visual-1a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/45736964-1dd2-46f1-8465-87b550ab36d0)
+![Visual-1a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/3aaf7979-40e1-49ba-b206-68203e24df4c)
+
 
 
 ## STEP 2: Best selling products using tree map
 • To edit theme for background color and font size, I accessed the "Format" option for the visualization and adjust the settings as desired.
 
-![Visual-2](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/65b37d12-f23a-44ba-8a7b-3e58dcbef67a)
+![Visual-2](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/500c3cb1-4829-46be-8d5d-5b1226fc0647)
+
 
 ## STEP 3: Top 5 best selling product using stacked bar chart
 1. To manipulate the visualization, I performed the following steps:
 •  I dragged and dropped the "Product" into the Y-axis.
 •  I placed the "Quantity" into the X-axis for appropriate ordering
 
-![Visual-3](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/fa9e0076-3e83-4af3-956a-bd8965e5deda)
+![Visual-3](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/948c5427-6cdb-45d5-9a01-02ab88e908ed)
+
 
 ## STEP 4: Top 5 cities by sales using map
 
-![Visual-4](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/450b9d36-b16a-481b-afd0-5e65f251f414)
+![Visual-4](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/d30dc089-fa18-486a-bc1d-9f4a07fdba73)
+
 
 
 ## STEP 5: Weekly sales distribution by weekday using column chart
 
-![Visual-5](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/bba39783-764f-4b6b-82f7-a5290fa2318d)
+![Visual-5](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/6d24457f-9b3f-4d0f-873a-227725919449)
+
 
 
 ## STEP 6: Slicer is used to make this kind of visual
@@ -132,7 +142,8 @@ into the slicer option.
 - To display the slicer in a vertical list, I accessed the 
 slicer settings and choose the option for a vertical column layout.
 
-![Visual-6](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/e254dfd4-0562-4cb9-a172-fd23e383e6ae)
+![Visual-6](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/ab847200-993e-4057-940f-0fb2cf271ba5)
+
 
 
 ## STEP 7: To find the revenue metrics:
@@ -151,7 +162,7 @@ places as needed.
 
 
 
-![Visual-7](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/9df9d09a-bbc0-410b-931f-1aa5148bf2f8)
+![Visual-7](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/97b5f71a-3e54-4f3e-abb4-dcddece926f6)
 
 Sales quantity 
 • I selected the "Card" visual, then dragged and dropped the "Quantity 
@@ -159,7 +170,8 @@ Ordered" int the designated field.
 • I accessed the "Format" option for the visual, and adjusted the callout 
 value to change the display unit of the quantity ordered as desired.
 
-![Visual-7a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/1af9a5fe-db48-43b1-b79c-96e29c9cf220)
+![Visual-7a](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/fd15dc8a-3adb-4065-b74c-3cad72df0026)
+
 
 
 • Furthermore, I clicked on new measure, then; 
@@ -171,7 +183,7 @@ value to change the display unit of the quantity ordered as desired.
 using the “Format visual
 
 
-![Visual-7b](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/b23b52d0-fedc-4c62-a0cf-75551ae03364)
+![Visual-7b](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/87075276-707c-46d9-9bc2-2c495e3c34cb)
 
 
 
@@ -189,7 +201,8 @@ The dashboard conveys information about the following key areas:
 - TOP-SELLING PRODUCTS
 - SALES TRENDS
 
-![Screenshot 2024-01-06 050336](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/7f9a58a5-1a34-497b-8ce5-dadd45992e27)
+![Screenshot 2024-01-06 050336](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/d3c956d6-5f87-4833-86c5-2945775915f9)
+
 
 
 ## Analysis
