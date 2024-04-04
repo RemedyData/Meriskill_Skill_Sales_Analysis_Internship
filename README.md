@@ -1,5 +1,7 @@
 # Meriskill_Skill_Sales_Analysis_Internship
-Meriskill Internship: Sales Analysis; A deep dive into sales data, aimed at extracting valuable  insights to enhance strategic decision-making.(*The picture below is gotten from Meriskill Website*). 
+Meriskill Internship: Sales Analysis; A deep dive into sales data, aimed at extracting valuable  insights to enhance strategic decision-making.
+(*The picture below is gotten from Meriskill Website*). 
+
 
 ![Meriskill-Sales-Analysis](https://github.com/RemedyData/Meriskill_Skill_Sales_Analysis_Internship/assets/137626163/2e1b0380-0334-43c6-b413-0d480ec18e8e)
 
@@ -36,7 +38,7 @@ The goal of this analysis is to:
    ---
   ## Data Source:
   
-The dataset for the work is gotten from Meriskill. It consist of 185,951 records and 11 fields of data. I studied the dataset well to gain proper insight into the dataset. You can find a link to download the dataset ![here:](https://drive.google.com/drive/folders/1IlsIC66p5HGBtNkntD872Gkx1j_3Nwdd?usp=drive_link)
+The dataset for the work is gotten from Meriskill. It consist of 185,951 records and 11 fields of data. I studied the dataset well to gain proper insight into the dataset. You can find a link to download the dataset [here:](https://drive.google.com/drive/folders/1IlsIC66p5HGBtNkntD872Gkx1j_3Nwdd?usp=drive_link)
 
    ---
 
