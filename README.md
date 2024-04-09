@@ -12,7 +12,7 @@ Meriskill Internship: Sales Analysis; A deep dive into sales data, aimed at extr
 
 ## Introduction
 
-This is a sales performance analysis. It is done by analyzing data from Sales table which comprises of ORDER ID column, PRODUCT column, QUANTITY ORDERED column, PRICE EACH column, ORDER DATE column, PURCHASE ADDRESS column, MONTH column, SALES column, CITY column, and HOUR column. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
+This is a sales performance analysis. It is done by analyzing data from Sales table which comprises of ORDER ID, PRODUCT, QUANTITY ORDERED, PRICE EACH, ORDER DATE, PURCHASE ADDRESS, MONTH, SALES, CITY, and HOUR fields. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
 
 ## Problem Statement
 
@@ -243,4 +243,4 @@ Summary of the insights gained into the company's performance:
 
 ### Thank you for reading.
 
-I am open for entry-level data analyst role.
+I am open for entry-level to mid-level data analyst role.
