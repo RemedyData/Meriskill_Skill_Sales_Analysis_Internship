@@ -243,4 +243,4 @@ Summary of the insights gained into the company's performance:
 
 ### Thank you for reading.
 
-I am open for entry-level to mid-level data analyst role.
+Let's have a discussion on how to scale up your company's revenue now!
